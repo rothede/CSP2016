@@ -22,3 +22,5 @@ def report_grade(percent):
 def letter_in_word(letter,word):
     '''Step 8 - return True if letter is in word.'''
     return letter in word
+
+	asdfasdf
